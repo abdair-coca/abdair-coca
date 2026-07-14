@@ -69,15 +69,6 @@ Interactive platform to learn ML, running Python in-browser via Pyodide.
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abdair-coca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdair-coca&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</div>
-
-<br/>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/>
 </div>
