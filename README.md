@@ -86,12 +86,14 @@ Your life as a graph: connect people, memories, places, projects, and knowledge 
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abdair-coca&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdair-coca&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="langs"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdair-coca&theme=tokyonight" alt="profile-details"/>
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdair-coca&theme=tokyonight" alt="stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdair-coca&theme=tokyonight" alt="langs"/>
 <br/>
 <img src="https://streak-stats.demolab.com?user=abdair-coca&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=abdair-coca&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophy"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdair-coca&theme=tokyonight&utcOffset=0" alt="productive-time"/>
 </div>
 
 <br/>
