@@ -34,44 +34,64 @@ Engineering student who genuinely enjoys programming, not just as a career path 
 ### Titi_Edu
 https://github.com/abdair-coca/Titi_Edu
 
-Learning social network with courses, gamification and certificates.
+Learning social network with courses, gamification and certificates, built on Neo4j + PostgreSQL.
 
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Library_App
-https://github.com/abdair-coca/Library_App
-
-Full-stack library management system.
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### abdAIr
 https://github.com/abdair-coca/abdAIr
 
-AI-powered CLI assistant with streaming responses and auto-summarization.
+AI-powered CLI assistant in Python using Groq, with streaming responses, persistent chat history and auto-summarization.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
 
 ### machine-learning-App
 https://github.com/abdair-coca/machine-learning-App
 
-Interactive platform to learn ML, running Python in-browser via Pyodide.
+Interactive platform to learn machine learning fundamentals, running Python in-browser via Pyodide.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
+### ReadEnglishAloud
+https://github.com/abdair-coca/ReadEnglishAloud
+
+AI-generated short stories for English learners, with text-to-speech and CEFR level selection (A1-C2).
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
+
+### Notas-App
+https://github.com/abdair-coca/Notas-App
+
+Full CRUD notes and reminders app with an interactive pet mascot, built with Laravel 13, PostgreSQL and TailwindCSS.
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### LazoGraph
 https://github.com/abdair-coca/LazoGraph
 
-Graphs of your life, powered by AI and embeddings to compact te context,
+Your life as a graph: connect people, memories, places, projects, and knowledge to explore your story and grow with context.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![AI](https://img.shields.io/badge/AI-6366F1?style=flat-square&logo=openai&logoColor=white)
+
 <br/>
 
 ## Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,php,laravel,postgres,neo4j,docker,html,css,git"/>
+</div>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abdair-coca&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdair-coca&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="langs"/>
+<br/>
+<img src="https://streak-stats.demolab.com?user=abdair-coca&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=abdair-coca&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophy"/>
 </div>
 
 <br/>
