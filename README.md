@@ -59,6 +59,13 @@ Interactive platform to learn ML, running Python in-browser via Pyodide.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
+
+### LazoGraph
+https://github.com/abdair-coca/LazoGraph
+
+Graphs of your life, powered by AI and embeddings to compact te context,
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 <br/>
 
 ## Tech Stack
