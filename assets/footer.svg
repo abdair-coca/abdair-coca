@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Thanks for stopping by">
+<title>Thanks for stopping by</title>
+<defs><clipPath id="f"><rect width="1200" height="120" rx="20"/></clipPath>
+<radialGradient id="fg" cx="50%" cy="120%" r="60%"><stop offset="0" stop-color="#1D4ED8" stop-opacity="0.5"/><stop offset="1" stop-color="#1D4ED8" stop-opacity="0"/></radialGradient></defs>
+<g clip-path="url(#f)"><rect width="1200" height="120" fill="#05070D"/><rect width="1200" height="120" fill="url(#fg)"/></g>
+<rect x="0.5" y="0.5" width="1199" height="119" rx="20" fill="none" stroke="#1C2A44"/>
+<circle cx="90" cy="60" r="4" fill="#60A5FA" opacity="0.3"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" begin="0.0s" repeatCount="indefinite"/></circle><circle cx="115" cy="60" r="4" fill="#60A5FA" opacity="0.3"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" begin="0.3s" repeatCount="indefinite"/></circle><circle cx="140" cy="60" r="4" fill="#60A5FA" opacity="0.3"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" begin="0.6s" repeatCount="indefinite"/></circle><circle cx="1060" cy="60" r="4" fill="#60A5FA" opacity="0.3"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" begin="0.9s" repeatCount="indefinite"/></circle><circle cx="1085" cy="60" r="4" fill="#60A5FA" opacity="0.3"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" begin="1.2s" repeatCount="indefinite"/></circle><circle cx="1110" cy="60" r="4" fill="#60A5FA" opacity="0.3"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" begin="1.5s" repeatCount="indefinite"/></circle>
+<text x="600.0" y="58" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" fill="#F8FAFC">Thanks for stopping by.</text>
+<text x="600.0" y="88" text-anchor="middle" font-family="'SF Mono', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" fill="#60A5FA">let's build something great together →</text>
+</svg>

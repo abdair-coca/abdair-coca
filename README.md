@@ -1,103 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=180&section=header&text=Abdair%20Coca&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+full-stack+apps+with+Laravel%2C+Neo4j+%26+Python;Always+exploring+new+technologies;Engineering+student+from+Potosi%2C+Bolivia" alt="Typing SVG" with="100%"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Location-Potosi%2C%20Bolivia-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Engineering-Student-22D3EE?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="./assets/header.svg" width="100%" alt="Abdair Coca — Software Engineering Student"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/abdair-coca-18113b259">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/abdair-coca-18113b259"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/abdaircoca/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=3B82F6" alt="Instagram"/></a>
+<img src="https://img.shields.io/badge/Potos%C3%AD%2C%20Bolivia-000000?style=for-the-badge&logo=googlemaps&logoColor=3B82F6" alt="Potosí, Bolivia"/>
+<img src="https://komarev.com/ghpvc/?username=abdair-coca&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile views"/>
 
-<a href="https://www.instagram.com/abdaircoca/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<br/><br/>
+
+<img src="./assets/terminal.svg" width="100%" alt="whoami — Abdair Coca, Software Engineering Student from Potosí, Bolivia. Focus: AI agents, LLMs, Machine Learning. Builds full-stack apps with Laravel, Neo4j and Python."/>
 
 </div>
 
 <br/>
 
-## About Me
-
-Engineering student who genuinely enjoys programming, not just as a career path but as a craft. I love exploring new technologies and building full-stack projects, from graph-powered social platforms to AI-driven CLI tools.
-
-<br/>
-
-## Featured Projects
-
-### Titi_Edu
-https://github.com/abdair-coca/Titi_Edu
-
-Learning social network with courses, gamification and certificates, built on Neo4j + PostgreSQL.
-
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### abdAIr
-https://github.com/abdair-coca/abdAIr
-
-AI-powered CLI assistant in Python using Groq, with streaming responses, persistent chat history and auto-summarization.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
-
-### machine-learning-App
-https://github.com/abdair-coca/machine-learning-App
-
-Interactive platform to learn machine learning fundamentals, running Python in-browser via Pyodide.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### ReadEnglishAloud
-https://github.com/abdair-coca/ReadEnglishAloud
-
-AI-generated short stories for English learners, with text-to-speech and CEFR level selection (A1-C2).
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
-
-### Notas-App
-https://github.com/abdair-coca/Notas-App
-
-Full CRUD notes and reminders app with an interactive pet mascot, built with Laravel 13, PostgreSQL and TailwindCSS.
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### LazoGraph
-https://github.com/abdair-coca/LazoGraph
-
-Your life as a graph: connect people, memories, places, projects, and knowledge to explore your story and grow with context.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![AI](https://img.shields.io/badge/AI-6366F1?style=flat-square&logo=openai&logoColor=white)
-
-<br/>
-
-## Tech Stack
+## ◆ Featured Projects
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,php,laravel,postgres,neo4j,docker,html,css,git"/>
+
+<a href="https://github.com/abdair-coca/LazoGraph"><img src="./assets/projects/LazoGraph.svg" width="49%" alt="LazoGraph"/></a>
+<a href="https://github.com/abdair-coca/abdAIr"><img src="./assets/projects/abdAIr.svg" width="49%" alt="abdAIr"/></a>
+<a href="https://github.com/abdair-coca/Titi_Edu"><img src="./assets/projects/Titi_Edu.svg" width="49%" alt="Titi_Edu"/></a>
+<a href="https://github.com/abdair-coca/machine-learning-App"><img src="./assets/projects/machine-learning-App.svg" width="49%" alt="machine-learning-App"/></a>
+<a href="https://github.com/abdair-coca/ReadEnglishAloud"><img src="./assets/projects/ReadEnglishAloud.svg" width="49%" alt="ReadEnglishAloud"/></a>
+<a href="https://github.com/abdair-coca/Notas-App"><img src="./assets/projects/Notas-App.svg" width="49%" alt="Notas-App"/></a>
+
 </div>
 
 <br/>
 
-## GitHub Stats
+## ◆ Tech Stack
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdair-coca&theme=tokyonight" alt="profile-details"/>
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,php,html,css&theme=dark" alt="Languages"/>
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdair-coca&theme=tokyonight" alt="stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdair-coca&theme=tokyonight" alt="langs"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=abdair-coca&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdair-coca&theme=tokyonight&utcOffset=0" alt="productive-time"/>
+<img src="https://skillicons.dev/icons?i=laravel,tailwind,postgres,neo4j,docker,git,github&theme=dark" alt="Frameworks and tools"/>
+
 </div>
 
 <br/>
+
+## ◆ Activity
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdair-coca&bg_color=0D1117&color=F8FAFC&line=3B82F6&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true&radius=16&custom_title=Contribution%20Activity&title_color=F8FAFC" width="100%" alt="Contribution activity graph"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdair-coca&theme=github_dark" width="49%" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdair-coca&theme=github_dark" width="49%" alt="Most used languages"/>
+
+<img src="https://streak-stats.demolab.com?user=abdair-coca&background=0D1117&border=1C2A44&stroke=1C2A44&ring=3B82F6&fire=60A5FA&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=60A5FA&sideLabels=A3B1C6&dates=64748B&border_radius=16" alt="GitHub streak"/>
+
 </div>
+
+<br/>
+
+<img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by — let's build something great together"/>
+
+<!-- Custom SVGs are generated by scripts/build_assets.py — edit the data there and re-run. -->
