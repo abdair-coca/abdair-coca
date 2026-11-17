@@ -1,64 +1,63 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Abdair Coca — Software Engineering Student"/>
+<img src="./assets/header.svg" width="100%" alt="Hi there, I'm Abdair Coca, Software Engineering Student. Robots, AI agents and web apps, from Potosí, Bolivia."/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/abdair-coca-18113b259"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/abdaircoca/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=3B82F6" alt="Instagram"/></a>
-<img src="https://img.shields.io/badge/Potos%C3%AD%2C%20Bolivia-000000?style=for-the-badge&logo=googlemaps&logoColor=3B82F6" alt="Potosí, Bolivia"/>
+<a href="https://www.linkedin.com/in/abdair-coca-18113b259"><img src="./assets/buttons/linkedin.svg" height="46" alt="LinkedIn"/></a>
+&nbsp;
+<a href="https://www.instagram.com/abdaircoca/"><img src="./assets/buttons/instagram.svg" height="46" alt="Instagram"/></a>
+
+<br/><br/>
+
+<img src="./assets/terminal.svg" width="100%" alt="About me: Abdair Coca, from Potosí, Bolivia. Software Engineering Student who builds robots, AI creatures and apps. Currently learning LLM agents and machine learning."/>
+
+</div>
+
+<br/>
+
+<img src="./assets/titles/projects.svg" height="58" alt="My Projects"/>
+
+<div align="center">
+
+<a href="https://github.com/abdair-coca/Titi_Edu"><img src="./assets/projects/Titi_Edu.svg" width="49%" alt="Titi_Edu: a learning social network with courses, gamification and certificates"/></a>
+<a href="https://github.com/abdair-coca/Robotsito"><img src="./assets/projects/Robotsito.svg" width="49%" alt="Robotsito: Robot Bob, a fair robot that recognizes faces and chats by voice"/></a>
+<a href="https://github.com/abdair-coca/JevCharacter"><img src="./assets/projects/JevCharacter.svg" width="49%" alt="JevCharacter: JEVLING, a tiny AI-driven digital creature"/></a>
+<a href="https://github.com/abdair-coca/explicador"><img src="./assets/projects/explicador.svg" width="49%" alt="explicador: a Claude Code plugin that explains codebases with animated diagrams"/></a>
+
+</div>
+
+<br/>
+
+<img src="./assets/titles/toolbox.svg" height="58" alt="Toolbox"/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,php,laravel,tailwind&theme=light" alt="Python, TypeScript, JavaScript, React, PHP, Laravel, Tailwind"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,neo4j,supabase,docker,arduino,vercel,git&theme=light" alt="PostgreSQL, Neo4j, Supabase, Docker, Arduino/ESP32, Vercel, Git"/>
+
+</div>
+
+<br/>
+
+<img src="./assets/titles/stats.svg" height="58" alt="GitHub Stats"/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdair-coca&bg_color=FFFFFF&color=111318&line=2563EB&point=111318&area=true&area_color=93C5FD&hide_border=true&radius=20&custom_title=Contribution%20Activity&title_color=111318" width="100%" alt="Contribution activity graph"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdair-coca&theme=default" width="49%" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdair-coca&theme=default" width="49%" alt="Most used languages"/>
+
+<img src="https://streak-stats.demolab.com?user=abdair-coca&background=FFFFFF&border=111318&stroke=111318&ring=2563EB&fire=2563EB&currStreakNum=111318&sideNums=111318&currStreakLabel=2563EB&sideLabels=111318&dates=334155&border_radius=20" alt="GitHub streak"/>
+
 <img src="https://komarev.com/ghpvc/?username=abdair-coca&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile views"/>
 
-<br/><br/>
-
-<img src="./assets/terminal.svg" width="100%" alt="whoami — Abdair Coca, Software Engineering Student from Potosí, Bolivia. Focus: AI agents, LLMs, Machine Learning. Builds full-stack apps with Laravel, Neo4j and Python."/>
-
 </div>
 
 <br/>
 
-## ◆ Featured Projects
+<img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by! Let's build something fun together"/>
 
-<div align="center">
-
-<a href="https://github.com/abdair-coca/LazoGraph"><img src="./assets/projects/LazoGraph.svg" width="49%" alt="LazoGraph"/></a>
-<a href="https://github.com/abdair-coca/abdAIr"><img src="./assets/projects/abdAIr.svg" width="49%" alt="abdAIr"/></a>
-<a href="https://github.com/abdair-coca/Titi_Edu"><img src="./assets/projects/Titi_Edu.svg" width="49%" alt="Titi_Edu"/></a>
-<a href="https://github.com/abdair-coca/machine-learning-App"><img src="./assets/projects/machine-learning-App.svg" width="49%" alt="machine-learning-App"/></a>
-<a href="https://github.com/abdair-coca/ReadEnglishAloud"><img src="./assets/projects/ReadEnglishAloud.svg" width="49%" alt="ReadEnglishAloud"/></a>
-<a href="https://github.com/abdair-coca/Notas-App"><img src="./assets/projects/Notas-App.svg" width="49%" alt="Notas-App"/></a>
-
-</div>
-
-<br/>
-
-## ◆ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,php,html,css&theme=dark" alt="Languages"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=laravel,tailwind,postgres,neo4j,docker,git,github&theme=dark" alt="Frameworks and tools"/>
-
-</div>
-
-<br/>
-
-## ◆ Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdair-coca&bg_color=0D1117&color=F8FAFC&line=3B82F6&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true&radius=16&custom_title=Contribution%20Activity&title_color=F8FAFC" width="100%" alt="Contribution activity graph"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdair-coca&theme=github_dark" width="49%" alt="GitHub stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdair-coca&theme=github_dark" width="49%" alt="Most used languages"/>
-
-<img src="https://streak-stats.demolab.com?user=abdair-coca&background=0D1117&border=1C2A44&stroke=1C2A44&ring=3B82F6&fire=60A5FA&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=60A5FA&sideLabels=A3B1C6&dates=64748B&border_radius=16" alt="GitHub streak"/>
-
-</div>
-
-<br/>
-
-<img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by — let's build something great together"/>
-
-<!-- Custom SVGs are generated by scripts/build_assets.py — edit the data there and re-run. -->
+<!-- Custom SVGs are generated by scripts/build_assets.py: edit the data there and re-run. -->
